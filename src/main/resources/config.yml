@@ -1,0 +1,4 @@
+whitelist:
+  - trading_machine:SMALL
+  - test:MEDIUM
+  - test2:HIGH
